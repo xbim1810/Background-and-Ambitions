@@ -1,0 +1,19 @@
+html {
+-webkit-text-size-adjust: 100%;
+-moz-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+text-size-adjust: 100%;
+font-size: 20px;
+line-height: 24px;
+}
+h1 {
+color: green;
+font-size: 36px;
+line-height: 48px;
+margin-bottom: 24px;
+}
+p {
+color: green;
+margin-top: 120px;
+margin-bottom: 20px;
+}
